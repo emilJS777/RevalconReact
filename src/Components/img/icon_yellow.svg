@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="prefix__icon"
+   width="14.65"
+   height="11.264"
+   viewBox="0 0 14.65 11.264"
+   version="1.1"
+   sodipodi:docname="icon_yellow_#ffff00.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata1295">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     id="namedview1293"
+     showgrid="false"
+     inkscape:zoom="20.951705"
+     inkscape:cx="2.580102"
+     inkscape:cy="5.632"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="prefix__icon" />
+  <defs
+     id="defs1288">
+    <style
+       id="style1286">
+            .prefix__cls-1{fill:#21b52c}
+        </style>
+  </defs>
+  <path
+     id="prefix__Path_4310"
+     d="M42.87 128.7a1.09 1.09 0 0 0-.475-.1h-8.472a2.72 2.72 0 0 0-1.121.275 2.625 2.625 0 0 0-.936.676l-2.621 3.089a.8.8 0 0 0-.245.512.341.341 0 0 0 .208.334 1.09 1.09 0 0 0 .475.1h8.48a2.72 2.72 0 0 0 1.121-.275 2.625 2.625 0 0 0 .936-.676l2.621-3.089a.8.8 0 0 0 .245-.512.374.374 0 0 0-.216-.334z"
+     class="prefix__cls-1"
+     data-name="Path 4310"
+     transform="translate(-28.436 -122.326)"
+     style="fill:#ffff00;fill-opacity:1" />
+  <path
+     id="prefix__Path_4311"
+     d="M25.35 49.751a3.694 3.694 0 0 1 1.537-.371h6.482l.007-1.983a1.648 1.648 0 0 0-1.648-1.641h-4.343v-.022a1.65 1.65 0 0 0-1.641-1.634h-2.7a1.646 1.646 0 0 0-1.644 1.634v8.034l2.673-3.089a3.764 3.764 0 0 1 1.277-.928z"
+     class="prefix__cls-1"
+     data-name="Path 4311"
+     transform="translate(-21.4 -44.1)"
+     style="fill:#ffff00" />
+</svg>

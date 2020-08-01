@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2,.prefix__cls-3{fill:#263c58}.prefix__cls-2{stroke:#263c58}
+        </style>
+    </defs>
+    <g id="prefix__ic-calendar" transform="translate(2 2)">
+        <path id="prefix__Rectangle_2041" d="M0 0H24V24H0z" data-name="Rectangle 2041" transform="translate(-2 -2)" style="fill:none"/>
+        <g id="prefix__Group_60120" data-name="Group 60120">
+            <g id="prefix__Group_60119" data-name="Group 60119">
+                <circle id="prefix__Ellipse_16" cx=".781" cy=".781" r=".781" class="prefix__cls-2" data-name="Ellipse 16" transform="translate(14.297 7.422)"/>
+                <path id="prefix__Path_2679" d="M16.875 1.563h-1.016V.781a.781.781 0 0 0-1.562 0v.781h-3.555V.781a.781.781 0 0 0-1.562 0v.781H5.664V.781a.781.781 0 0 0-1.564 0v.781h-.975A3.129 3.129 0 0 0 0 4.688v12.187A3.129 3.129 0 0 0 3.125 20H9.1a.781.781 0 0 0 0-1.562H3.125a1.564 1.564 0 0 1-1.562-1.562V4.688a1.564 1.564 0 0 1 1.562-1.563H4.1v.781a.781.781 0 0 0 1.563 0v-.781H9.18v.781a.781.781 0 0 0 1.563 0v-.781H14.3v.781a.781.781 0 0 0 1.563 0v-.781h1.016a1.564 1.564 0 0 1 1.563 1.563v4.453a.781.781 0 0 0 1.563 0V4.688a3.129 3.129 0 0 0-3.13-3.125z" class="prefix__cls-3" data-name="Path 2679"/>
+                <circle id="prefix__Ellipse_17" cx=".781" cy=".781" r=".781" class="prefix__cls-2" data-name="Ellipse 17" transform="translate(10.898 7.422)"/>
+                <circle id="prefix__Ellipse_18" cx=".781" cy=".781" r=".781" class="prefix__cls-2" data-name="Ellipse 18" transform="translate(7.5 10.82)"/>
+                <circle id="prefix__Ellipse_24" cx=".781" cy=".781" r=".781" class="prefix__cls-2" data-name="Ellipse 24" transform="translate(10.833 10.82)"/>
+                <circle id="prefix__Ellipse_19" cx=".781" cy=".781" r=".781" class="prefix__cls-2" data-name="Ellipse 19" transform="translate(4.102 7.422)"/>
+                <circle id="prefix__Ellipse_20" cx=".781" cy=".781" r=".781" class="prefix__cls-2" data-name="Ellipse 20" transform="translate(4.102 10.82)"/>
+                <circle id="prefix__Ellipse_21" cx=".781" cy=".781" r=".781" class="prefix__cls-2" data-name="Ellipse 21" transform="translate(4.102 14.219)"/>
+                <circle id="prefix__Ellipse_22" cx=".781" cy=".781" r=".781" class="prefix__cls-2" data-name="Ellipse 22" transform="translate(7.5 14.219)"/>
+                <circle id="prefix__Ellipse_23" cx=".781" cy=".781" r=".781" class="prefix__cls-2" data-name="Ellipse 23" transform="translate(7.5 7.422)"/>
+                <g id="prefix__water-2" transform="translate(13.319 10.82)">
+                    <path id="prefix__Subtraction_2" d="M3.272 9.18A3.275 3.275 0 0 1 0 5.909C0 4.151 3.139.169 3.272 0l.011.013c.334.425 3.258 4.2 3.258 5.9A3.274 3.274 0 0 1 3.272 9.18zm2.12-3.558a.3.3 0 0 0-.286.287 1.837 1.837 0 0 1-1.834 1.836.287.287 0 1 0 0 .573 2.412 2.412 0 0 0 2.41-2.409.3.3 0 0 0-.29-.287z" class="prefix__cls-3" data-name="Subtraction 2"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

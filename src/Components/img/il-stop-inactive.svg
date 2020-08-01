@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}.prefix__cls-5{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__il-stop-inactive" transform="translate(0 -.001)">
+        <path id="prefix__Path_4312" d="M358.93 7.5v23.3l6.824-6.824v-9.65z" data-name="Path 4312" transform="translate(-342.105 -7.148)" style="fill:#def1ff"/>
+        <path id="prefix__Path_4313" d="M29.859 14.325v9.65L23.973 30.8h-9.65L7.5 23.974v-9.65L14.324 7.5h9.65z" class="prefix__cls-2" data-name="Path 4313" transform="translate(-7.148 -7.148)"/>
+        <path id="prefix__Path_4314" d="M342.36 47.5v19.548l5.725-5.725v-8.1z" data-name="Path 4314" transform="translate(-326.312 -45.273)" style="fill:#989898"/>
+        <path id="prefix__Path_4315" d="M65.641 53.226v8.1l-4.319 5.725h-8.1L47.5 61.323v-8.1l5.725-5.723h8.1z" data-name="Path 4315" transform="translate(-45.273 -45.273)" style="fill:#b5b5b5"/>
+        <path id="prefix__Path_4316" d="M23.9 6.927L17.074.1a.352.352 0 0 0-.249-.1h-9.65a.352.352 0 0 0-.249.1L.1 6.927a.351.351 0 0 0-.1.249v9.65a.352.352 0 0 0 .1.249L6.926 23.9a.352.352 0 0 0 .249.1h9.65a.352.352 0 0 0 .249-.1l6.826-6.826a.352.352 0 0 0 .1-.249V7.176a.351.351 0 0 0-.1-.249zm-.6 9.753l-6.621 6.62H7.321L.7 16.68V7.322L7.321.7h9.359l6.62 6.622z" class="prefix__cls-5" data-name="Path 4316"/>
+        <path id="prefix__Path_4317" d="M54.173 40h-8.1a.352.352 0 0 0-.249.1L40.1 45.829a.352.352 0 0 0-.1.249v8.1a.352.352 0 0 0 .1.249l2.365 2.365a.352.352 0 1 0 .5-.5L40.7 54.029v-7.806l5.522-5.523h7.805l5.519 5.519v7.805l-5.519 5.519h-7.805l-2.262-2.258a.352.352 0 1 0-.5.5l2.365 2.365a.352.352 0 0 0 .249.1h8.1a.352.352 0 0 0 .249-.1l5.725-5.725a.352.352 0 0 0 .1-.249v-8.1a.352.352 0 0 0-.1-.249L54.422 40.1a.352.352 0 0 0-.249-.1z" class="prefix__cls-5" data-name="Path 4317" transform="translate(-38.125 -38.125)"/>
+        <rect id="prefix__Rectangle_2015" width="8" height="8" class="prefix__cls-2" data-name="Rectangle 2015" rx="1" transform="translate(8 8.001)"/>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__ic-help" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#263c58}
+        </style>
+    </defs>
+    <path id="prefix__Path" d="M0 0H24V24H0z" style="fill:none"/>
+    <g id="prefix__help" transform="translate(-2 -2)">
+        <path id="prefix__Path_7" d="M12.2 15.41a1.088 1.088 0 1 0 1.086 1.09 1.088 1.088 0 0 0-1.086-1.09z" class="prefix__cls-2" data-name="Path 7" transform="translate(1.802 2.758)"/>
+        <path id="prefix__Path_8" d="M14 3a11 11 0 1 0 11 11A11 11 0 0 0 14 3zm0 20.277A9.277 9.277 0 1 1 23.277 14 9.277 9.277 0 0 1 14 23.277z" class="prefix__cls-2" data-name="Path 8"/>
+        <path id="prefix__Path_9" d="M12.631 7.48a3.483 3.483 0 0 0-3.471 3.483.868.868 0 0 0 1.736 0 1.736 1.736 0 1 1 1.735 1.737.868.868 0 0 0-.868.868v2.176a.868.868 0 0 0 1.736 0v-1.419a3.471 3.471 0 0 0-.868-6.844z" class="prefix__cls-2" data-name="Path 9" transform="translate(1.369 .995)"/>
+    </g>
+</svg>

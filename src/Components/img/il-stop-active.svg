@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}.prefix__cls-5{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__il-stop-active" transform="translate(0 -.001)">
+        <path id="prefix__Path_4312" d="M358.93 7.5v46.595l13.647-13.647v-19.3z" data-name="Path 4312" transform="translate(-325.28 -6.797)" style="fill:#def1ff"/>
+        <path id="prefix__Path_4313" d="M52.219 21.148v19.3L40.447 54.095h-19.3L7.5 40.448v-19.3L21.147 7.5h19.3z" class="prefix__cls-2" data-name="Path 4313" transform="translate(-6.797 -6.797)"/>
+        <path id="prefix__Path_4314" d="M342.36 47.5v39.095l11.451-11.451V58.952z" data-name="Path 4314" transform="translate(-310.264 -43.047)" style="fill:#e0230d"/>
+        <path id="prefix__Path_4315" d="M83.781 58.952v16.192l-8.638 11.451H58.951L47.5 75.144V58.952L58.951 47.5h16.192z" data-name="Path 4315" transform="translate(-43.047 -43.047)" style="fill:#ff5440"/>
+        <path id="prefix__Path_4316" d="M47.794 13.854L34.147.207A.7.7 0 0 0 33.65 0h-19.3a.7.7 0 0 0-.5.206L.206 13.854a.7.7 0 0 0-.206.5v19.3a.7.7 0 0 0 .206.5L13.853 47.8a.7.7 0 0 0 .5.206h19.3a.7.7 0 0 0 .5-.206l13.641-13.652a.7.7 0 0 0 .206-.5v-19.3a.7.7 0 0 0-.206-.494zm-1.2 19.506L33.359 46.595H14.641L1.406 33.36V14.642L14.641 1.407h18.718l13.235 13.235z" class="prefix__cls-5" data-name="Path 4316"/>
+        <path id="prefix__Path_4317" d="M68.347 40H52.153a.7.7 0 0 0-.5.206l-11.45 11.45a.7.7 0 0 0-.206.5v16.192a.7.7 0 0 0 .206.5l4.731 4.731a.7.7 0 0 0 .994-.994l-4.525-4.525V52.446l11.042-11.039h15.611l11.038 11.039v15.61L68.055 79.095h-15.61L47.92 74.57a.7.7 0 0 0-.994.994l4.73 4.736a.7.7 0 0 0 .5.206h16.191a.7.7 0 0 0 .5-.206l11.45-11.45a.7.7 0 0 0 .206-.5V52.154a.7.7 0 0 0-.206-.5l-11.45-11.45a.7.7 0 0 0-.5-.204z" class="prefix__cls-5" data-name="Path 4317" transform="translate(-36.25 -36.25)"/>
+        <rect id="prefix__Rectangle_2015" width="16" height="16" class="prefix__cls-2" data-name="Rectangle 2015" rx="1" transform="translate(16 16.001)"/>
+    </g>
+</svg>

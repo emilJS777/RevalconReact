@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:none}.prefix__cls-3{fill:#263c58}
+        </style>
+    </defs>
+    <g id="prefix__ic-group" style="opacity:.8">
+        <path id="prefix__Path" d="M0 0H24V24H0z" class="prefix__cls-2"/>
+        <g id="prefix__group" transform="translate(-1)">
+            <rect id="prefix__Rectangle_2022" width="8" height="8" class="prefix__cls-3" data-name="Rectangle 2022" rx="2" transform="translate(4 3)"/>
+            <rect id="prefix__Rectangle_2025" width="8" height="8" class="prefix__cls-3" data-name="Rectangle 2025" rx="2" transform="translate(4 13)"/>
+            <rect id="prefix__Rectangle_2023" width="8" height="8" class="prefix__cls-3" data-name="Rectangle 2023" rx="2" transform="translate(14 3)"/>
+            <g id="prefix__Rectangle_2024" data-name="Rectangle 2024" transform="translate(14 13)" style="stroke:#263c58;fill:none">
+                <rect width="8" height="8" rx="2" style="stroke:none"/>
+                <rect width="7" height="7" x=".5" y=".5" class="prefix__cls-2" rx="1.5"/>
+            </g>
+        </g>
+    </g>
+</svg>

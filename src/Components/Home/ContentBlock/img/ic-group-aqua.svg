@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="prefix__ic-group"
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   sodipodi:docname="ic-group-aqua.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata924">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     id="namedview922"
+     showgrid="false"
+     inkscape:zoom="31.75"
+     inkscape:cx="12"
+     inkscape:cy="10.225784"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="prefix__ic-group" />
+  <defs
+     id="defs913">
+    <style
+       id="style911">
+            .prefix__cls-2{fill:#21b52c}
+        </style>
+  </defs>
+  <path
+     id="prefix__Path"
+     d="M0 0H24V24H0z"
+     style="fill:none" />
+  <g
+     id="prefix__group"
+     transform="translate(-1)"
+     style="fill:#00ffff">
+    <rect
+       id="prefix__Rectangle_2022"
+       width="8"
+       height="8"
+       class="prefix__cls-2"
+       data-name="Rectangle 2022"
+       rx="2"
+       transform="translate(4 3)"
+       style="fill:#00ffff" />
+    <rect
+       id="prefix__Rectangle_2025"
+       width="8"
+       height="8"
+       class="prefix__cls-2"
+       data-name="Rectangle 2025"
+       rx="2"
+       transform="translate(4 13)"
+       style="fill:#00ffff" />
+    <rect
+       id="prefix__Rectangle_2023"
+       width="8"
+       height="8"
+       class="prefix__cls-2"
+       data-name="Rectangle 2023"
+       rx="2"
+       transform="translate(14 3)"
+       style="fill:#00ffff" />
+    <rect
+       id="prefix__Rectangle_2024"
+       width="8"
+       height="8"
+       class="prefix__cls-2"
+       data-name="Rectangle 2024"
+       rx="2"
+       transform="translate(14 13)"
+       style="fill:#00ffff" />
+  </g>
+</svg>

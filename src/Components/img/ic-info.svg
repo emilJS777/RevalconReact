@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H24V24H0z" class="prefix__cls-1"/>
+        </clipPath>
+        <style>
+            .prefix__cls-1{fill:none}.prefix__cls-3{fill:rgba(255,84,64,.6)}
+        </style>
+    </defs>
+    <g id="prefix__ic-info">
+        <path id="prefix__Path" d="M0 0H24V24H0z" class="prefix__cls-1"/>
+        <g id="prefix__Info" transform="translate(4 4)">
+            <path id="prefix__Path_3892" d="M13.657 2.343A8 8 0 1 0 2.343 13.657 8 8 0 1 0 13.657 2.343zM8 14.707A6.707 6.707 0 1 1 14.707 8 6.715 6.715 0 0 1 8 14.707z" class="prefix__cls-3" data-name="Path 3892"/>
+            <path id="prefix__Path_3907" d="M19.379 8.909a.925.925 0 1 0 .925.925.926.926 0 0 0-.925-.925z" class="prefix__cls-3" data-name="Path 3907" transform="translate(-11.379 -5.493)"/>
+            <path id="prefix__Path_3908" d="M19.784 17.818a.694.694 0 0 0-.694.694v4.161a.694.694 0 1 0 1.387 0v-4.161a.694.694 0 0 0-.693-.694z" class="prefix__cls-3" data-name="Path 3908" transform="translate(-11.784 -10.85)"/>
+        </g>
+    </g>
+</svg>

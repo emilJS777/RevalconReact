@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="prefix__clip-path">
+            <path d="M0 0H24V24H0z" class="prefix__cls-1"/>
+        </clipPath>
+        <style>
+            .prefix__cls-1{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__ic-arrow-right">
+        <path id="prefix__Path" d="M0 0H24V24H0z" class="prefix__cls-1"/>
+        <path id="prefix__arrow-right" d="M14.78 11.5l-4.52-4.29a.75.75 0 0 0-1 0 .67.67 0 0 0 0 1l4 3.8-4 3.8a.68.68 0 0 0 0 1 .75.75 0 0 0 1 0l4.52-4.28a.68.68 0 0 0 0-1z" style="fill:#263c58"/>
+    </g>
+</svg>
